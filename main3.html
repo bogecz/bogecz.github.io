@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kovács Boglárka</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<link type="text/css" rel="stylesheet"
+	 href="main3.css"/>
+</head>
+<body>
+<div class="felsocsik">
+	<h1> Kovács Boglárka <br>ipari termék- és formatervező mérnök
+</div>
+<div>
+	<p class="elso"> <b> Magamról </b> <br>A nevem Kovács Boglárka, Budapesten születtem 1999-ben. Tanulmányaimat a Karinthy Frigyes Kéttanításinyelvű Gimnázium után a Budapesti Műszaki és Gazdaságtudományi Egyetemen folytattam, ahol jelenleg elsőves terméktervező hallgató vagyok. A gimnáziumban eltöltött évek alatt sikerült angolból C1-es nyelvvizsgát szereznem. A szabadidőmben szívesen foglalkozom fotózással is, illetve képszerkesztéssel, alább megtekinthető néhány munkám. <br> <img src="kep1.jpg" width="200" height="200"> <img src="kep2.jpg" width="200" height="200"> <img src="kep3.jpg" width="150" height="200"> <img src="kep4.jpg" width="150" height="200"> <img src="kep5.jpg" width="150" height="200"> <img src="kep6.jpg" height="200" width="200"> <br> <b> Elérhetőségeim </b>  </br>email: kovacsbogi0@gmail.com 
+	</p>
+</div>
+</body>
+</html>
